@@ -1,3 +1,2 @@
 # survival-analysis
-#TWO R FILES WHERE SURVIVAL ANALYSIS TECHNIQUES ARE APPLIED. FILE "COX MODEL AND DIAGNOSTICS" CONTAINS THE PROPORTIONAL HAZARDS MODEL AND RESIDUAL TESTING,
-#APPLIED ON THE LARYNX DATA. KAPLAN MEIER AND NELSON AALEN FILE CONTAINS NON PARAMETRIC STATISTICALA ANALYSIS FOR THE GastricXelox DATA.
+#Two R files with applications of survival analysis techniques. The Cox file contains an application of the proportional hazards model on the larynx dataset. Schoenfield, Martingale and Cox Snell Residuals where also applied and brief commentary analyzes how they are used. The other file contains the non parametric estimator of the survival function Kaplan Meier and the Nelson Aalen estimator with visualizations. 
